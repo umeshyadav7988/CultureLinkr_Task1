@@ -11,12 +11,10 @@ When the user submits the form, a success message is displayed without refreshin
 - Form fields for `Name`, `Email`, and `Message`.
 - Displays a success message upon form submission without a page reload.
 - Utilizes React's state management to handle form data and submission logic.
-- Basic styling applied for an improved user interface.
 
 ## Tech Stack
 - **React**: For building the frontend and managing the form's state.
 - **JavaScript (ES6+)**: For form handling and interactivity.
-- **CSS**: For styling the form and the success message.
 
 ## Getting Started
 
